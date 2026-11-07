@@ -130,7 +130,7 @@ The application will open in your browser at `http://localhost:8501`.
 
 BE Information Technology Student
 
-GitHub: https://github.com/Rutuja1918/AI-Placement-Feedback-Assistant/blob/main/README.md
+GitHub: https://github.com/Rutuja1918/AI-Placement-Feedback-Assistant
 
 ---
 
